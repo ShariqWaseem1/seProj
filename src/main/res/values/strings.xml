@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">nobs3</string>
+    <string name="text_shadow">Enter text</string>
+    <string name="btn_label1">Send</string>
+    <string name="lbl_display_2">Hello World</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email completions."</string>
+    <string name="OK">OK</string>
+    <string name="ipHint">192.168.16.104</string>
+    <string name="currentServerIP">Currently set Server IP:</string>
+    <string name="signup">SIGN UP</string>
+    <string name="title_activity_lobby_user">LobbyUser</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="reg_portal">Registration Portal</string>
+    <string name="usernamePrompt">E-Mail:</string>
+    <string name="emailHint">someone@someorg.com</string>
+    <string name="nameHint">Full name</string>
+    <string name="passwordPrompt">Password:</string>
+    <string name="reenterPasswordPrompt">Re-enter Password:</string>
+    <string name="enterPassword">Enter Password</string>
+    <string name="reenterPasswordhint">Re-enter Password</string>
+    <string name="phoneNumber">Phone Number:</string>
+    <string name="namePrompt">Name:</string>
+    <string name="phoneHint">Enter Phone Number</string>
+    <string name="userName">Username</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_admin_lobby">Administrator Lobby</string>
+    <string name="btnAddRoom">Add Room</string>
+    <string name="btnDeleteRoom">Delete Room</string>
+    <string name="title_activity_add_room">AddRoomActivity</string>
+</resources>
